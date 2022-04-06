@@ -1,0 +1,59 @@
+p{
+    font-size:25px;
+    font-weight:bold;
+    margin:10px;
+}
+body{
+    background-color:lightblue;
+}
+h1{
+    color:red;
+    font-size:60px;
+    text-align:center;
+    font-family:fantasy;
+    position:static;
+}
+h1:hover{
+    color:purple;
+    font-size:70px;
+}
+li{
+    display:inline-block;
+    font-size:34px;
+    color:white;
+    font-weight:bold;
+    padding:5px;
+    margin-left:100px;
+    margin-right:100px;
+}
+nav{
+    background-color:black;
+    margin-left:100px;
+    margin-right:100px;
+}
+ul{
+    text-align:center;
+}
+li:hover{
+    background-color:lightgreen;
+}
+img{
+    float:right;
+    padding:10px;
+}
+.sp1{
+    position:absolute;
+    top:490px;
+    right:25px;
+    color:green;
+    font-weight:bold;
+    font-size:15px;
+    text-align:center;
+    border:3px solid yellow;
+    background-color:lightblue;
+}
+.sp1:hover{
+    color:blue;
+    border:3px solid red;
+    background-color:lightgreen;
+}
